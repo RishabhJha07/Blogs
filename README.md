@@ -2,10 +2,6 @@
 
 A modern blog frontend built with **React (Create React App)** and styled using **Tailwind CSS**, deployed on **Vercel**.
 
-🔗 **Live Website:** https://blogs-beige-alpha.vercel.app/
-
-
-
 ---
 
 ## 🚀 Project Overview
